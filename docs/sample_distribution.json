@@ -12,9 +12,9 @@
     "servers": [
         {
             "id": "WesterosCraft-1.11.2",
-            "name": "ddddddd Production Server",
-            "description": "Main Wesdgshsrfdect to enter the Realm.",
-            "icon": "kkk",
+            "name": "WesterosCraft Production Server",
+            "description": "Main WesterosCraft server. Connect to enter the Realm.",
+            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
             "version": "3.9.4",
             "address": "mc.westeroscraft.com",
             "minecraftVersion": "1.11.2",
